@@ -11,3 +11,4 @@ FindWindowA + ShowWindow
 
 nim c --cpu:amd64 -d:release --app:gui 
 ```
+1
